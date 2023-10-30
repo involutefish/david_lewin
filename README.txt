@@ -1,0 +1,1 @@
+run python david_lewin.py in shell to calculator all results.
