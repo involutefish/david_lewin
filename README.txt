@@ -1,1 +1,1 @@
-run python david_lewin.py in shell to calculator all results.
+Run <python david_lewin.py> in shell to get all results.
